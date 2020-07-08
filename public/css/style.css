@@ -1,0 +1,62 @@
+/* #logo{
+    margin-top: -3%; 
+}
+
+#header #menu{
+    margin-top: -3%;
+}
+
+#header-wrapper{
+    background-image: url(/images/banner.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+#menu ul li:hover{
+    background-color: rgb(81, 81, 246);
+    border-radius:26px;  
+} */
+
+
+.breadcrumbs{
+  margin-top: -24px;
+
+
+}
+
+/* .card{
+  margin-top: 55px;
+}
+.card-body{
+  padding-top: 77px;
+  padding-bottom: 77px;
+}
+
+.justify-content-center{
+  padding-bottom: 20px;
+} */
+
+.product {
+    padding: 20px;
+    margin-bottom: 24px;
+    transition: all 0.2s linear;
+    cursor: pointer;
+    border-radius: 12px;
+
+  }
+  .product:hover {
+    transform: scale(1.01);
+    box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2), 0 1px 15px 0 rgba(0, 0, 0, 0.19);
+    font-weight: bold;
+    color: black;
+  }
+  .product > .product {
+    margin: 0;
+  }
+
+
+  .hero-image img{
+      border-radius: 12px;
+  }
+  
+
